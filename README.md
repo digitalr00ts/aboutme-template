@@ -26,5 +26,8 @@ The template was built on top of [Start Bootstrap - Resume](https://github.com/S
     ![](https://docs.github.com/assets/images/help/repository/edit-readme-preview-changes.png)
  5. Click **Commit Changes** when you are ready.
 
+## Example
 
+My repository created from this template, https://github.com/xsc27/gwc-aboutme. The website is at: https://xsc27.github.io/gwc-aboutme/.
 
+You can see the changes (a.k.a "commits") that I made here: https://github.com/xsc27/gwc-aboutme/commits/gh-pages. Click on any commit and you can see how I made the change.
